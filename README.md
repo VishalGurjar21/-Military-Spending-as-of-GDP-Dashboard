@@ -1,1 +1,1 @@
-# -Military-Spending-as-of-GDP-Dashboard
+# Military-Spending-as-of-GDP-Dashboard
